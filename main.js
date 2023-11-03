@@ -1,4 +1,4 @@
-const API_KEY = "2d8e4cfbd3caf4f46460a7f8db9a1581";
+const API_KEY = "API_KEY";
 
 const getCurrentmathData = async () => {
     const city = 'Navi Mumbai';
